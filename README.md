@@ -45,13 +45,7 @@ Open [http://localhost:5173](http://localhost:5173)
 | **Patterns** | Bar charts and pie charts of incidents by driver, vehicle, type + repeat-offender alerts |
 
 ---
-
-## Tech Stack
-- React 18 + Vite
-- Tailwind CSS
-- Recharts (data viz)
-- Claude API (claude-sonnet-4) for triage
-- No backend, no database — runs entirely in the browser
+]
 
 ---
 
