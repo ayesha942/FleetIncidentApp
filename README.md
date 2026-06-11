@@ -46,3 +46,18 @@ Open [http://localhost:5173](http://localhost:5173)
 
 ---
 
+## Tech Stack
+- React 18 + Vite
+- Tailwind CSS
+- Recharts (data viz)
+- Claude API (claude-sonnet-4) for triage
+- No backend, no database — runs entirely in the browser
+
+---
+
+## What I'd Build Next
+1. **Driver mobile app** — submit reports from phone with photo upload
+2. **Email/WhatsApp integration** — ingest reports from wherever drivers already send them
+3. **Persistent storage** — connect to a real DB so incidents survive page refresh
+4. **Trend alerts** — "Incident rate up 40% this week" push notifications to manager
+5. **Insurance export** — one-click report generation in the format insurers need
